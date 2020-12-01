@@ -15,7 +15,7 @@ This repository contains my personal projects.
 * PCA.
 * SVMs.
 
-![](/images/Telnet.PNG)
+![](/images/download.png)
 
 
 ---
