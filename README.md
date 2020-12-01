@@ -28,8 +28,7 @@ Results:
 * Data Collection.
 * Object Detection with YOLOv5.
 * A problem study.
-![](/images/time_series.PNG)
-![](/images/analysis.PNG)
+![](/images/Telnet.PNG)
 
 
 Code and report are not included due to privacy policy by the internship
@@ -41,7 +40,7 @@ Code and report are not included due to privacy policy by the internship
 * Building an evaluation metric.
 * Testing.
 
-![](/images/sentiment_analysis.PNG)
+![](/images/Icompass.PNG)
 
 Code and report are not included due to privacy policy by the internship
 
@@ -50,5 +49,5 @@ Code and report are not included due to privacy policy by the internship
 ## [Project: Classify Song Genres from Audio Data]()
 * PCA, logistic regression, decision trees,
 
-![](/images/NIPS_LDA.PNG)
+![](/images/classificaion.PNG)
 ---
