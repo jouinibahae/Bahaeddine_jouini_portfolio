@@ -1,6 +1,6 @@
 # My projects portfolio
 
-Owner: Iyed Amor
+Owner: Bahaeddine Jouini
 
 This repository contains my personal projects.
 
