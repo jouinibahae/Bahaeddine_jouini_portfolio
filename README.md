@@ -7,9 +7,8 @@ This repository contains my personal projects.
 
 
 
-## [Project: Rainforest Connection Species Audio Detection]()
-* 
-* 
+## [Project: Text-Based Game]()
+* The task is learning control policies for text-based games using reinforcement learning. In these games, all interactions between players and the virtual world are through text. The current world state is described by elaborate text, and the underlying state is not directly observable. Players read descriptions of the state and respond with natural language commands to take actions.
 
 
 
